@@ -1,3 +1,6 @@
+# apk_look
+调用apkleaks批量跑apk文件，获取敏感信息
+
 配合apkleaks进行使用
 
   -a string
@@ -13,8 +16,6 @@
     	The folder where apk file save -- 指定apk文件所在文件夹
       
 
-# apk_look
-调用apkleaks批量跑apk文件，获取敏感信息
 
 Windows运行效果
 
