@@ -1,4 +1,4 @@
-# apk_look
+# apk_look 安卓测试
 调用apkleaks批量跑apk文件，获取敏感信息
 
 配合apkleaks进行使用
